@@ -12,6 +12,7 @@ var hangmanWord = [""]
 var wrongGuesses = [""]
 var guessesLeft = 8
 
+
 //Add how many names you want to this word bank. All names need to be lowercase.
 var wordBank = ['peahi', 'pipeline', 'mavericks', 'sunset', 'teahupoo', 'cloudbreak', 'trestles', 'superbank', 'rincon']
 
